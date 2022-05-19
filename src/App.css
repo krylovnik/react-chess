@@ -3,7 +3,7 @@
     padding: 0;
 }
 .app {
-    width: 100vh;
+    width: 100vw;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -26,5 +26,5 @@
     background-color:deepskyblue;
 }
 .white {
-    background-color: #dabc8e;
+    background-color: #eed4ac;
 }
